@@ -1,0 +1,14 @@
+D:\Fiverr\C#\Screening\Screening\bin\Debug\netcoreapp3.1\Screening.exe
+D:\Fiverr\C#\Screening\Screening\bin\Debug\netcoreapp3.1\Screening.deps.json
+D:\Fiverr\C#\Screening\Screening\bin\Debug\netcoreapp3.1\Screening.runtimeconfig.json
+D:\Fiverr\C#\Screening\Screening\bin\Debug\netcoreapp3.1\Screening.runtimeconfig.dev.json
+D:\Fiverr\C#\Screening\Screening\bin\Debug\netcoreapp3.1\Screening.dll
+D:\Fiverr\C#\Screening\Screening\bin\Debug\netcoreapp3.1\Screening.pdb
+D:\Fiverr\C#\Screening\Screening\obj\Debug\netcoreapp3.1\Screening.csproj.AssemblyReference.cache
+D:\Fiverr\C#\Screening\Screening\obj\Debug\netcoreapp3.1\Screening.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fiverr\C#\Screening\Screening\obj\Debug\netcoreapp3.1\Screening.AssemblyInfoInputs.cache
+D:\Fiverr\C#\Screening\Screening\obj\Debug\netcoreapp3.1\Screening.AssemblyInfo.cs
+D:\Fiverr\C#\Screening\Screening\obj\Debug\netcoreapp3.1\Screening.csproj.CoreCompileInputs.cache
+D:\Fiverr\C#\Screening\Screening\obj\Debug\netcoreapp3.1\Screening.dll
+D:\Fiverr\C#\Screening\Screening\obj\Debug\netcoreapp3.1\Screening.pdb
+D:\Fiverr\C#\Screening\Screening\obj\Debug\netcoreapp3.1\Screening.genruntimeconfig.cache
